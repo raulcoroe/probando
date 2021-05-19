@@ -1,0 +1,6 @@
+projectKey=org.example:Probando2
+serverUrl=http://192.168.1.117
+serverVersion=8.8.0.42792
+dashboardUrl=http://192.168.1.117/dashboard?id=org.example%3AProbando2
+ceTaskId=AXmGtX1t9iO1wfcPkAQu
+ceTaskUrl=http://192.168.1.117/api/ce/task?id=AXmGtX1t9iO1wfcPkAQu
